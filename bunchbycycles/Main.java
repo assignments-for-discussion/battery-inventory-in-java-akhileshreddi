@@ -39,9 +39,10 @@ public class Main {
     catch(AssertionError e)
     {
       System.out.println(e.getMessage());
+    }
    
     System.out.println("Done counting :)\n");
-  }
+  
   }
 
   public static void main(String[] args) {
