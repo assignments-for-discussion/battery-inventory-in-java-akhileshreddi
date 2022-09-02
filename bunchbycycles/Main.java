@@ -38,7 +38,7 @@ public class Main {
     }
     catch(AssertionError e)
     {
-      System.out.println(e.message);
+      System.out.println(e.getMessage());
    
     System.out.println("Done counting :)\n");
   }
