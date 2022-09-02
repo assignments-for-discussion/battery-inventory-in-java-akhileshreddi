@@ -42,6 +42,7 @@ public class Main {
    
     System.out.println("Done counting :)\n");
   }
+  }
 
   public static void main(String[] args) {
     testBucketingByNumberOfCycles();
